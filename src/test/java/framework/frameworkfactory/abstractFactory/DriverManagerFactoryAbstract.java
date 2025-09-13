@@ -1,6 +1,7 @@
 package framework.frameworkfactory.abstractFactory;
 
-import org.framework.frameworkenums.DriverType;
+
+import framework.projectconstants.DriverType;
 
 public class DriverManagerFactoryAbstract {
     public static DriverManagerAbstract getManager(DriverType driverType){

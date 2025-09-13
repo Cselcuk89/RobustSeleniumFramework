@@ -1,7 +1,7 @@
 package framework.frameworkfactory;
 
+import framework.projectconstants.DriverType;
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.framework.frameworkenums.DriverType;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
