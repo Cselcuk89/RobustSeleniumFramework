@@ -1,4 +1,4 @@
-package org.framework.frameworkfactory.abstractFactory;
+package framework.frameworkfactory.abstractFactory;
 
 import org.framework.frameworkenums.DriverType;
 

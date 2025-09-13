@@ -1,4 +1,4 @@
-package org.framework.frameworkfactory;
+package framework.frameworkfactory;
 
 import org.openqa.selenium.WebDriver;
 

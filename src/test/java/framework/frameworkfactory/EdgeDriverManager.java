@@ -1,4 +1,4 @@
-package org.framework.frameworkfactory;
+package framework.frameworkfactory;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
